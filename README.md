@@ -1,4 +1,4 @@
-# 🔐 Chitkara Surveillance System — AI Face-Lock Security
+# 🔐 Surveillance System — AI Face-Lock Security
 
 An AI-powered **smart door-lock / surveillance system** built in Python. It unlocks access only when **three layers of verification** pass — your **face**, your **voice passphrase**, and a **one-time password (OTP)** sent to your phone. Any failed attempt triggers an **instant SMS security alert**.
 
@@ -72,7 +72,7 @@ An AI-powered **smart door-lock / surveillance system** built in Python. It unlo
 ## 🗂️ Project Structure
 
 ```
-chitkara_survelience_system/
+survelience-system/
 └── Lock-System/
     ├── main.py                     # Entry point — full verification pipeline
     ├── sampling.py                 # Enrolment tool — capture face samples of a new user
@@ -201,8 +201,8 @@ python main.py
 
 ## 📄 License
 
-This project was built as an academic project at **Chitkara University**. Feel free to fork and extend it.
+This project is open for forking and extension. Feel free to build on it!
 
 ---
 
-Made with ❤️ by [@Akshat-hub7](https://github.com/Akshat-hub7) & team
+Made with ❤️ by [@Akshat-hub7](https://github.com/Akshat-hub7)
