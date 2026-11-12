@@ -1,0 +1,33 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Personal face dataset & trained model (regenerate via sampling.py)
+Lock-System/Dataset/
+Lock-System/model/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
